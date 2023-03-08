@@ -1,0 +1,2 @@
+# notepad
+C++ Qt project
